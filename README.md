@@ -1,10 +1,11 @@
 # Jean-David Flament
 
-I've been writing software since 2017 — first in France, now in Japan. Most of that time has gone into web applications: SaaS products, e-commerce, internal tools, and a few sites with more traffic than I expected.
+I've been writing software since 2017 — first in France, now in Japan.
 
 ## Tools
 
-- JavaScript (React, Vue, Next, Nuxt, Nest)
+- AI (Orca, Claude, OpenCode)
+- Frontend (React, Vue, Next, Nuxt, Nest)
 - Backend (TypeScript, PHP, Go)
 - Cloud (Serverless, Kubernetes, IaaS)
 
