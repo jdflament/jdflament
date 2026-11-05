@@ -1,4 +1,4 @@
-# Jean-David Flament
+# Jean-David Flament (JD)
 
 I've been writing software since 2017 — first in France, now in Japan.
 
@@ -10,7 +10,3 @@ I've been writing software since 2017 — first in France, now in Japan.
 - Cloud (Serverless, Kubernetes, IaaS)
 
 I'm usually hiking, taking photos, or studying Japanese.
-
-## Find me
-
-[X](https://x.com/jdflament) · [Twitter](https://twitter.com/jdflament)
